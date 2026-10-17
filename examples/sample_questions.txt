@@ -1,0 +1,4 @@
+How do I investigate a pod in CrashLoopBackOff?
+What should I check first when a Kubernetes pod is restarting repeatedly?
+Which logs are useful when troubleshooting an application crash after startup?
+How do I determine whether an issue is caused by a failed application startup or bad configuration?
